@@ -1,0 +1,3 @@
+@echo off
+echo Starting Discord bot...
+python bot.py

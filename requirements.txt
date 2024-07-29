@@ -1,0 +1,2 @@
+discord.py-self==2.0.0
+spotipy==2.24.0
