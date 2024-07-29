@@ -59,6 +59,3 @@ Login, and you're done!
 - Under the `Request Headers` -> `Authorization` section, there will be your Discord token. Copy it.
 
 ![image](imgs/token.png)
-
-# License
-[MIT License](LICENSE)
