@@ -11,7 +11,8 @@ Set your Discord status as your currently playing Spotify song. (Nitro check inc
 # ⚠ Before You Begin
 This script was recreated from my orignal script for personal use. I'm not responsible for anything that happens to your account.
 
-# 📚 Getting Started
+
+# 📚 Getting Started 
 You need `git`, `python3` and `pip3` installed on your machine. The installation process may differ on different OSes. This usually works on Debian/Ubuntu.
 ```
 sudo apt update
@@ -22,6 +23,14 @@ Clone this repository and install requirements.
 git clone https://github.com/Nx0Ri/Spoticord.git
 cd Spoticord/
 pip3 install -r requirements.txt
+```
+
+# 📚 Getting Started (Easy | Windows)
+You need [Python](https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe) on your pc.<br>
+Download this repository and install requirements.
+```
+cd Spoticord/
+pip install -r requirements.txt
 ```
 
 # 🖥 Configure and Run
