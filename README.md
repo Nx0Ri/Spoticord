@@ -5,7 +5,7 @@
 <p align="center">
 Set your Discord status as your currently playing Spotify song. (Nitro check included for spotify icon)
 <h1 align="center">
-<img src="imgs/nitro_2.png"> <img src="imgs/no_nitro.png">
+<img src="imgs/nitro (1).png"> <img src="imgs/nitro (2).png"> <img src="imgs/nitro (3).png">
 </h1>
 
 # ⚠ Before You Begin
